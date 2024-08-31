@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  cursor: pointer;
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #222222;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 1rem;
+  background: #888;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #149ECA;
+
+}
+/* ok so sorry for wasting your niggerlicious time */
+
+::selection {
+  background-color: transparent; /* Set your desired background color here */
+  color: yellow; /* Set the text color for better contrast, if needed */
+}
+
+body {
+  overflow: hidden;
+}
+
+mark {
+  background-color: #56627e ;
+  color: #ffffff;
+  padding-inline: 2px;
+  border-radius: 3px;
+}
