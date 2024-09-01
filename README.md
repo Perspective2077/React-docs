@@ -1,1 +1,1 @@
-Above file is src folder for those who need Ui (Sad doesnt need my docs ::((((((((((((( ) , ok so take it , install new vite project and just replace the src folder with this , and offcourse i used react to make react-docs duhh,,
+Above file is src folder and html file and a tailwind config is for those who need Ui (Sad doesnt need my docs ::((((((((((((( ) , ok so take it , install new vite project and just replace the src folder and html with these also dont forgot to install tailwind , and offcourse i used react to make react-docs duhh,,
